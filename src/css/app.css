@@ -1,0 +1,15 @@
+.logo {
+  height: 40px;
+}
+
+.menuheader {
+  font-size: 16px;
+  color: #cccccc;
+  background-color: #333333;
+  vertical-align: bottom;
+}
+
+.menuheaderright {
+  text-align: right;
+  padding-top: 6px;
+}
