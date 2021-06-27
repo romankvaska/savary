@@ -7,9 +7,10 @@
   color: #cccccc;
   background-color: #333333;
   vertical-align: bottom;
+  min-height: 30px;
+  padding-top: 3px;
 }
 
 .menuheaderright {
   text-align: right;
-  padding-top: 6px;
 }

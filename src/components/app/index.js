@@ -24,7 +24,7 @@ class App extends Component {
             render={props => this.auth.isAuthenticated() ? <Profile auth={this.auth} {...props} /> : <Redirect to="/" />}
           />
         </div>
-    </React.Fragment>
+      </React.Fragment>
   );
   }
 }

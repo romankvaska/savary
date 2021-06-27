@@ -11,7 +11,6 @@ class NavHorizontal extends Component {
             <nav className="row menuheader">
                 <div className="col-md-5">
                     <Link to="/">
-                        <img src={logo} className="logo" alt="Logo" />
                         SAVARY
                     </Link>
                      - Your Personal Budgeting Online Solution

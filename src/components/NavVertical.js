@@ -5,7 +5,7 @@ class Menu extends Component {
   render() {
     return (
       <div className="col-md-2 menu">
-        Menu List
+        Budget List
       </div>
     );
   }
